@@ -25,8 +25,6 @@
 - 💼 Student at AGH University in Cracov </li>
 - 💻 Member of Membrane Framework </li>
 - 🧙 Flutter wizard (not really but sounds fancy) </li>
-- 🤷 I once build an app that nobody wanted to use (happens to everyone, do your reserach!)
-- ❤️ My mommy is proud of me! (love you mum)
 - 🙃 Being always sarcastic is a lifestyle
 - ⌨️ You get to know the best keyboard by how much dB it produces (spoiler, the more the better)
 - 👑 With Vim comes great productivity
