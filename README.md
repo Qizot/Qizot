@@ -22,10 +22,8 @@
 
 
 *Some random facts:*
-- 💼 Student at AGH University in Cracov </li>
+- 💼 Student at AGH University in Cracov (going for master) </li>
 - 💻 Member of Membrane Framework </li>
-- 🧙 Flutter wizard (not really but sounds fancy) </li>
-- 🙃 Being always sarcastic is a lifestyle
 - ⌨️ You get to know the best keyboard by how much dB it produces (spoiler, the more the better)
 - 👑 With Vim comes great productivity
 
