@@ -23,7 +23,6 @@
 
 *Some random facts:*
 - 💼 Student at AGH University in Cracov (going for master) </li>
-- 💻 Member of Membrane Framework </li>
 - ⌨️ You get to know the best keyboard by how much dB it produces (spoiler, the more the better)
 - 👑 With Vim comes great productivity
 
