@@ -18,22 +18,7 @@
 
 
 
-##### Nevertheless, welcome to the wheel of randomness!
-
-
-*Some random facts:*
-- 💼 Student at AGH University in Cracov (going for master) </li>
-- ⌨️ You get to know the best keyboard by how much dB it produces (spoiler, the more the better)
-- 👑 With Vim comes great productivity
-
-
-<br><br><br>
-<h2 align="center"> Github stats go brrrr! (mostly private repos, sorry) </h2>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=qizot&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<br><br><br>
-<h2 align="center"> What if I told you something about Sysopy? You wouldn't understand... </h2>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qizot&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## About
+- Software engineer with major interest in multimedia, highly distributed systems and low level programming
+- Huge debugging enthusiast, becoming a Sherlock Holmes for a living is a blast
+- Neovim user btw
